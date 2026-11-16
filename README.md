@@ -1,3 +1,5 @@
+<a href="https://shaneghim.github.io/" style="display:inline-block;padding:4px 12px;border:1px solid #d6dbe1;border-radius:999px;font-family:Helvetica,Arial,sans-serif;font-size:0.85rem;color:#1f4e79;text-decoration:none;background:#fff;">&larr; All projects</a>
+
 # Term Life Insurance Pricing in Excel: Net Premiums and Reserves
 
 This Excel project prices a level term life insurance policy using the 2017 CSO mortality table. You choose the gender, issue age, term, face amount, and interest rate, and the workbook calculates the net premium and the reserve the insurer must hold each year.
