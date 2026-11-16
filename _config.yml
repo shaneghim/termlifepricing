@@ -1,0 +1,7 @@
+title: "Term Life Insurance Pricing in Excel: Net Premiums and Reserves"
+theme: jekyll-theme-primer
+defaults:
+  - scope:
+      path: ""
+    values:
+      title: "Term Life Insurance Pricing in Excel: Net Premiums and Reserves"
